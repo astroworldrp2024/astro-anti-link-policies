@@ -11,8 +11,8 @@ Leave these blank unless you are building an advanced HTTP endpoint / linked-rol
 
 Use your hosted page URLs for these:
 
-- Terms of Service URL: https://YOUR-DOMAIN.com/terms-of-service.html
-- Privacy Policy URL: https://YOUR-DOMAIN.com/privacy-policy.html
+- Terms of Service URL: https://astroworldrp2024.com/terms-of-service.html
+- Privacy Policy URL: https://astroworldrp2024.com/privacy-policy.html
 
 ## Simple hosting options
 
